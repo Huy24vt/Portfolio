@@ -4,6 +4,7 @@
 
 - <b>Customer Segmentation </b>
   - [RFM Customer Segmentation in Python](https://github.com/Huy24vt/RFM-Segmentation.git)
+  - [Cohort Analysis in SQL](https://github.com/Huy24vt/Cohort-Analysis/tree/main)
   
 
 - <b>Affinity Analysis </b>
